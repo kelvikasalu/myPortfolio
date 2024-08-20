@@ -1,0 +1,70 @@
+/* Global styles */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f9f9f9;
+    color: rgb(162, 64, 15);
+    line-height: 1.6;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 40px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+section h2 {
+    margin-bottom: 10px;
+}
+
+.bio, .interests {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.bio h2, .interests h2 {
+    color: #333;
+    margin-bottom: 15px;
+}
+
+.interests ul {
+    padding-left: 20px;
+}
+
+.interests li {
+    color: #666;
+
+}
+ul {
+    color: #0a0539;
+    background: #a89ca5;
+    padding: 20px;
+    color: darkblue;
+  }
